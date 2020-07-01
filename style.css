@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.half-width
+{
+    width: 40%;
+    height: 650px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 5%;
+}
+.half-width img{
+    width: 100%;
+    height: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, hotpink, rgb(230, 46, 138));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+p{
+    color: dimgray;
+}
+.client{
+    text-align: center;
+}
+
+.imageSize{
+    width: 27%;
+    height: 30%px;
+    float: left;
+    margin-left: 5%;
+    
+}
+
+.imageSize img{
+    width: 100%;
+    height: 100%;
+}
+h6{
+    color: grey;
+}
+.founder{
+    color: grey;
+    font-size: 15px;
+}
+
+.footer{
+    margin: 30px 450px;
+    background-image: linear-gradient(180deg, hotpink, rgb(230, 46, 138));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.footer p{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.mail{
+    font-size: 15px;
+    font-weight: 400;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;  
+}
+.client{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat; 
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+#copyright{
+    font-size: 12px;
+    margin-bottom: 30px;
+}
